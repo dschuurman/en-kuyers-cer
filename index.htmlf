@@ -1,0 +1,11 @@
+<div class="indexmodule">
+
+<a href="<?php echo $dir ?>/index.html">
+<img src="<?php echo $dir ?>/cer.png" alt="Christian Education Resources">
+</a>
+
+<h2><a href="<?php echo $dir ?>/index.html">Christian Education Resources from the Kuyers Institute</a></h2>
+
+<p>A collection of Christian Education Resources from the Kuyers Institute for Christian Teaching and Learning.</p>
+
+</div>

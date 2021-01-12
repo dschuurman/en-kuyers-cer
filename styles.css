@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background: ivory;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+.terms-text ul {
+    margin: 0;
+}
+
+.terms-text li {
+    margin-bottom: 0px;
+}
+
+.terms-text {
+    color: darkslategray;
+    font-size: smaller;
+    font-style: italic;
+}
+
+.license-text {
+    color: slategray;
+    font-size: smaller;
+    font-style: italic;
+}
+
+.resource-img {
+    height: 12pt;
+}
